@@ -1,5 +1,5 @@
 /*Ejercicio 4. Declara un puntero a entero y asigna la dirección de memoria de una variable entera 
-a ese puntero. Luego, imprime el valor de la variable utilizando el puntero. */
+a ese puntero. Luego, imprime el valor de la variable utilizando el puntero.*/
 
 #include <stdio.h> 
 
