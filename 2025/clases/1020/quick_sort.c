@@ -95,6 +95,10 @@ void sort(int *arr, int low, int high, int totalLength) {
     }
 }
 
+void sortWrapper(int *arr, int n) {
+    sort(arr, 0, n - 1, n);
+}
+
 int main()
 {
     int n = 10;
